@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <title>HTML</title>
+  </head>
+  <body>
+    <img src="images/200x200.png" alt="My Image" width="100" />
+    <img src="images/200x200.png" alt="My Image" height="150" />
+    <img src="shape.jpg" alt="My Image" width="1200" height="500" />
+  </body>
+</html>
